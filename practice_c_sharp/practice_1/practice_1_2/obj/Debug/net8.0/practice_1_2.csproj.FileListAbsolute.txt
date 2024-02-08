@@ -1,0 +1,14 @@
+D:\practice_c_sharp\practice_1\practice_1_2\bin\Debug\net8.0\practice_1_2.exe
+D:\practice_c_sharp\practice_1\practice_1_2\bin\Debug\net8.0\practice_1_2.deps.json
+D:\practice_c_sharp\practice_1\practice_1_2\bin\Debug\net8.0\practice_1_2.runtimeconfig.json
+D:\practice_c_sharp\practice_1\practice_1_2\bin\Debug\net8.0\practice_1_2.dll
+D:\practice_c_sharp\practice_1\practice_1_2\bin\Debug\net8.0\practice_1_2.pdb
+D:\practice_c_sharp\practice_1\practice_1_2\obj\Debug\net8.0\practice_1_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice_c_sharp\practice_1\practice_1_2\obj\Debug\net8.0\practice_1_2.AssemblyInfoInputs.cache
+D:\practice_c_sharp\practice_1\practice_1_2\obj\Debug\net8.0\practice_1_2.AssemblyInfo.cs
+D:\practice_c_sharp\practice_1\practice_1_2\obj\Debug\net8.0\practice_1_2.csproj.CoreCompileInputs.cache
+D:\practice_c_sharp\practice_1\practice_1_2\obj\Debug\net8.0\practice_1_2.dll
+D:\practice_c_sharp\practice_1\practice_1_2\obj\Debug\net8.0\refint\practice_1_2.dll
+D:\practice_c_sharp\practice_1\practice_1_2\obj\Debug\net8.0\practice_1_2.pdb
+D:\practice_c_sharp\practice_1\practice_1_2\obj\Debug\net8.0\practice_1_2.genruntimeconfig.cache
+D:\practice_c_sharp\practice_1\practice_1_2\obj\Debug\net8.0\ref\practice_1_2.dll
